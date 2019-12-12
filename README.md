@@ -1,3 +1,5 @@
+Tämä peli on toteutettu Unity-pelimoottorilla.
+
 Latauslinkki peliin: https://ksamk-my.sharepoint.com/:u:/g/personal/oriro009_edu_xamk_fi/EQsDExdFvvZKjRQBDzI4EisBfgH-jQgYUnYPIFqPnwraqw?e=Oh3Us5
 
 Tein Pokemon-pelin, joka on sekoitus Pokemon-GO:sta sekä muista Pokemon peleistä. Pelissä on tarkoituksena saada rekisteröityä kaikki pelistä löytyvät Pokemonit Pokedexiin. Osa pokemoneista löytyy eri paikoista mappia ja osan voi saada vain munista hatchaamalla. Pelissä ei ole mitään combattiin liittyvää. Jokaisella pokemonilla on sama catch rate, mutta pallon tyypillä voi vaikuttaa siihen. 
