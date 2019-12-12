@@ -4,9 +4,9 @@ Latauslinkki peliin: https://ksamk-my.sharepoint.com/:u:/g/personal/oriro009_edu
 
 Screenshotteja pelistä:
 
-Yleinen näkymä: https://gyazo.com/b87b57d14cd2265fe45e1eb16fb0cfa9
-Pokedex: https://gyazo.com/ce6f7ff75b9b1ff8569eaf2affe128b3
-Info: https://gyazo.com/584df8fc9fd90ebe1a298467b341fa77
+Yleinen näkymä: https://gyazo.com/b87b57d14cd2265fe45e1eb16fb0cfa9  
+Pokedex: https://gyazo.com/ce6f7ff75b9b1ff8569eaf2affe128b3  
+Info: https://gyazo.com/584df8fc9fd90ebe1a298467b341fa77  
 Statistics: https://gyazo.com/f17ce61bc065fdac09ed14e15f0c35f4
 
 Tein Pokemon-pelin, joka on sekoitus Pokemon-GO:sta sekä muista Pokemon peleistä. Pelissä on tarkoituksena saada rekisteröityä kaikki pelistä löytyvät Pokemonit Pokedexiin. Osa pokemoneista löytyy eri paikoista mappia ja osan voi saada vain munista hatchaamalla. Pelissä ei ole mitään combattiin liittyvää. Jokaisella pokemonilla on sama catch rate, mutta pallon tyypillä voi vaikuttaa siihen. 
