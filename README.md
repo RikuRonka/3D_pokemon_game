@@ -1,6 +1,6 @@
 Tämä peli on toteutettu Unity-pelimoottorilla.
 
-Latauslinkki peliin: https://ksamk-my.sharepoint.com/:u:/g/personal/oriro009_edu_xamk_fi/EQsDExdFvvZKjRQBDzI4EisBfgH-jQgYUnYPIFqPnwraqw?e=Oh3Us5
+Latauslinkki peliin: https://www.mediafire.com/file/0zfyrgpr4tx3pxw/3DGAME_EXE_UPDATED.zip/file
 
 Screenshotteja pelistä:
 
