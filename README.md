@@ -41,10 +41,10 @@ Download link for the game: https://www.mediafire.com/file/0zfyrgpr4tx3pxw/3DGAM
 
 Screenshots from the game:
 
-General view: https://gyazo.com/b87b57d14cd2265fe45e1eb16fb0cfa9
-Pokedex: https://gyazo.com/ce6f7ff75b9b1ff8569eaf2affe128b3
-Info: https://gyazo.com/584df8fc9fd90ebe1a298467b341fa77
-Statistics: https://gyazo.com/f17ce61bc065fdac09ed14e15f0c35f4
+General view: https://gyazo.com/b87b57d14cd2265fe45e1eb16fb0cfa9  
+Pokedex: https://gyazo.com/ce6f7ff75b9b1ff8569eaf2affe128b3  
+Info: https://gyazo.com/584df8fc9fd90ebe1a298467b341fa77  
+Statistics: https://gyazo.com/f17ce61bc065fdac09ed14e15f0c35f4  
 
 I created a Pokémon game that is a mix of Pokémon GO and other Pokémon games. The goal of the game is to register all the Pokémon found in the game into the Pokédex. Some Pokémon are found in different locations on the map, and others can only be obtained by hatching eggs. The game does not have any combat elements. Each Pokémon has the same catch rate, but the type of ball used can affect it.
 
